@@ -1,0 +1,7 @@
+- 👋 Hey, I’m @franksavvy-arch
+- 👀 I’m passionate about automation, algorithmic trading, and building interactive web apps that showcase custom Python scripts.
+- 🌱 I’m currently diving deeper into advanced logging, input validation, and seamless session handling in Flask applications.
+- 💞️ I’m excited to collaborate on projects that involve automated trading systems, business automation tools, or anything that simplifies complex processes with code.
+- 📫 Reach me at: [algocustoms@gmail.com]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love creating Python scripts that turn tedious tasks into effortless automations—especially in the trading and business world!
