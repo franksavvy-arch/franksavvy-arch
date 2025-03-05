@@ -67,4 +67,4 @@ Explore my comprehensive digital portfolio showcasing web development and softwa
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.customalgo.tech)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURGITHUBUSERNAME&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=franksavvy-arch&show_icons=true&theme=radical)
